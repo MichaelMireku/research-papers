@@ -1,4 +1,4 @@
-# IE WHITEPAPER OVERVIEW
+
 
 ## Introduction
 
