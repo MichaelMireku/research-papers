@@ -8,7 +8,7 @@ IE is a fully organic, community-driven token with no fake promises and 100 perc
 
 To create a sustainable token economy by integrating tools, use cases, and gamification - all while engaging a vibrant Telegram-based community.
 
-## Core Values
+## IE Core Values
 
 
 * Transparency
@@ -21,12 +21,6 @@ To create a sustainable token economy by integrating tools, use cases, and gamif
 * Wallet Explorer: Track wallet activity and Raydium-trades
 * Holder NFTS: Exclusive NFTs for top IE holders
 
-## IE Core Values
-
-* Transparency
-* Innovation
-* Community First
-* Utility-Driven Growth
 
 ## Tokenomics
 
